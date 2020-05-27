@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PO</title>
+    <link rel="stylesheet" href="aquiPost.css">
+  </head>
+
+  <body>
+    <div class="postBody">
+      <h2>this is PO</h2>
+      <img class="postBodyImage" src="/post/po.jpg">
+      <p><a href="https://www.dropbox.com/s/wbknxq92zkv4gue/%EC%A0%9C%EB%AA%A9_%EC%97%86%EB%8A%94_%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC.png?dl=0">다운로드</a></p>
+    </div>
+  </body>
+</html>
