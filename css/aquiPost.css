@@ -1,0 +1,38 @@
+#list {
+  list-style: none;
+  text-align: center;
+}
+
+#list a{
+  color:gray; text-decoration:none;text-align: center;
+    font-family: sans-serif;
+    padding-left: 35px; padding-right: 35px;
+}
+#list a:hover{
+  color: black;
+}
+#list ul{
+  display: block;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 15px;
+  padding-top: 5px;
+  padding-left: 0;
+}
+
+
+.postBody{
+  margin: 25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a{
+  color:black; text-decoration:none;
+}
+a:hover{
+  color: pink;
+}
+
+.postBodyImage {
+  max-width: 500px;
+}
